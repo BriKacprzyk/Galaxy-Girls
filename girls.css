@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
+.container{
+	background-image: url(bg.jpg);
+	background-repeat: repeat;
+	font-size: 62.5%;
+}
+.home{
+	background-color: white;
+	width: 60%;
+	margin: 0px auto;
+	font-family: 'Chilanka', cursive;
+	border-radius: 20px;
+}
+h1{
+	text-align: center;
+	font-size: 3rem;
+	width: 85%;
+	margin: 0px auto;
+	display: inline-block;
+	margin-top: 10px;
+}
+.member{
+	display: inline-block;
+	font-size: 1rem;
+	padding: 10px 7px;
+	background-color: #3fa3b5;
+	border-radius: 10px;
+	color: white;
+	text-decoration: none;
+	margin-left: 10px;
+}
+.member:hover{
+	opacity: 0.6;
+}
+.girls{
+	width: 100%;
+	margin-top: 0px;
+}
+h2{
+	font-size: 2rem;
+	margin: 10px;
+}
+p{
+	text-indent: 3%;
+	font-size: 1.3rem;
+	margin: 20px;
+	margin-top: 5px;
+	text-align: justify;
+}
+.become{
+	font-size: 1rem;
+	padding: 10px 7px;
+	background-color: #3fa3b5;
+	border-radius: 10px;
+	color: white;
+	text-decoration: none;
+	width: 30px;
+}
+.become:hover{
+	opacity: 0.6;
+}
+.button{
+	text-align: center;
+}
