@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
 .container{
-	background-image: url(bg.jpg);
+	background-image: url(bg.png);
 	background-repeat: repeat;
 	font-size: 62.5%;
 }
@@ -23,7 +23,7 @@ h1{
 	display: inline-block;
 	font-size: 1rem;
 	padding: 10px 7px;
-	background-color: #3fa3b5;
+	background-color: #ac71c7;
 	border-radius: 10px;
 	color: white;
 	text-decoration: none;
@@ -48,9 +48,9 @@ p{
 	text-align: justify;
 }
 .become{
-	font-size: 1rem;
-	padding: 10px 7px;
-	background-color: #3fa3b5;
+	font-size: 2rem;
+	padding: 15px;
+	background-color: #ac71c7;
 	border-radius: 10px;
 	color: white;
 	text-decoration: none;
